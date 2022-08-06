@@ -6,6 +6,11 @@ authors = ["fairy26 <yousei110226@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+numpy = "^1.23.1"
+Pillow = "^9.2.0"
+imageio = "^2.21.0"
+matplotlib = "^3.5.2"
+ipykernel = "^6.15.1"
 
 [tool.poetry.dev-dependencies]
 
